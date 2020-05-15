@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: http://www.admoq.in
+
